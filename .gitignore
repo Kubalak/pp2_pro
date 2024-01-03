@@ -50,3 +50,20 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+packages/
+.vs/
+Debug/
+Release/
+x64/
+
+.VSCodeCounter/
+
+# ZIP archives
+*.zip
+
+# Music in MPEG format
+PP2.PRO.JACH/sounds/music.mpeg
+
+PP2.PRO.JACH/data/*.dat
+PP2.PRO.JACH/data/*.ini
